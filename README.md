@@ -6,7 +6,15 @@
 ---
 
 ## 📸 Photos
-<img width="748.5" height="488.5" alt="스크린샷 2026-02-16 오후 5 33 55" src="https://github.com/user-attachments/assets/6c854a76-55f9-4c54-8aba-ff069b1ed84e" />
+<p align="center">
+  <img src="[이미지주소](https://github.com/user-attachments/assets/6c854a76-55f9-4c54-8aba-ff069b1ed84e)" 
+       style="width: 100%; 
+              max-width: 748.5px; 
+              aspect-ratio: 748.5 / 488.5; 
+              object-fit: cover; 
+              display: block; 
+              margin: 0 auto;">
+</p>
 
 ## 🌟 Overview
 **Liquid New Tab** makes your browser's new tab screen more productive than just a new tab screen.
