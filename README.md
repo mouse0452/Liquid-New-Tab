@@ -7,7 +7,8 @@
 
 ## 📸 Photos
 <p align="center">
-  <img src="[이미지주소]([Preview.png](https://github.com/mouse0452/Liquid-New-Tab/blob/73de593879229bc864393168da413cd6803bf02c/Preview.png))" 
+  <img src="https://raw.githubusercontent.com/mouse0452/Liquid-New-Tab/main/Preview.png" 
+       alt="Liquid New Tab Preview"
        style="width: 100%; 
               max-width: 748.5px; 
               aspect-ratio: 748.5 / 488.5; 
