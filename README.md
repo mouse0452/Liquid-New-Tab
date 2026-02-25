@@ -7,7 +7,7 @@
 
 ## 📸 Photos
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mouse0452/Liquid-New-Tab/main/Preview.png" 
+  <img src="https://raw.githubusercontent.com/mouse0452/Liquid-New-Tab/main/Preview - English(US).png" 
        alt="Liquid New Tab Preview"
        style="width: 100%; 
               max-width: 748.5px; 
