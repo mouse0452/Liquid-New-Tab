@@ -1,4 +1,4 @@
-# 🧊 Liquid New Tab
+# <img src="https://github.com/user-attachments/assets/b0ec4655-6e5d-412e-8957-1560a8ec6469" height="32" valign="middle" /> Liquid New Tab
 > **Customize the new tab screen of your Chromium-based browser beautifully.**
 
 > **It's beautiful and safe.**
@@ -7,7 +7,7 @@
 
 ## 📸 Photos
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1r42SnFbqx9Se_DkgUZ7JafywBlW5W7Qs"
+  <img src="https://github.com/user-attachments/assets/9e063499-5e94-4478-ae43-b485f941cdab"
        alt="Liquid New Tab Preview"
        style="width: 100%; 
               max-width: 748.5px; 
