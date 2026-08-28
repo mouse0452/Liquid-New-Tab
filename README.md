@@ -22,7 +22,7 @@
 ## 🌟 Overview
 **Liquid New Tab** makes your browser's new tab screen more productive than just a new tab screen.
 
-## 🚀 Key Features
+## 🎯 Key Features
 * **Clean & Fluid Design:** Enjoy an eye-comfortable desktop experience with fluid layouts and the elegant Liquid Glass design.
 * **Now Island AI Briefing (PRO):** Hover over the top island to get a quick AI-powered summary of your schedule and top headlines for the day.
 * **Interactive Dock:** Quickly access quick notes, settings, and favorite shortcuts from a bottom dock with fluid animations.
