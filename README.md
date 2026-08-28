@@ -1,4 +1,4 @@
-# 📱 Liquid New Tab for Chromium Browsers
+# 🧊 Liquid New Tab
 > **Customize the new tab screen of your Chromium-based browser beautifully.**
 
 > **It's beautiful and safe.**
@@ -7,7 +7,7 @@
 
 ## 📸 Photos
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mouse0452/Liquid-New-Tab/main/메인 - 영어.png"
+  <img src="https://lh3.googleusercontent.com/d/1r42SnFbqx9Se_DkgUZ7JafywBlW5W7Qs"
        alt="Liquid New Tab Preview"
        style="width: 100%; 
               max-width: 748.5px; 
