@@ -29,6 +29,13 @@
 ## 📥 Installation & Usage
 You can download the latest official release from the **Chrome Web Store**.
 
+## 💬 Support & Contact
+If you encounter any issues, have questions, or want to suggest new features:
+
+[![Channel Talk Support](https://img.shields.io/badge/Channel%20Talk-Online%20Support-5C5CFF?style=for-the-badge&logo=chat&logoColor=white)](https://liquidnewtab.pages.dev/#support)
+
+* **Email:** [hello.nabellian@gmail.com](mailto:hello.nabellian@gmail.com)
+
 ## ⚠️ Important Information
 * **License:** All Rights Reserved.
 * **Distribution:** Unauthorized modification or redistribution of this software is strictly prohibited.
@@ -38,10 +45,3 @@ You can download the latest official release from the **Chrome Web Store**.
 **Developed by NABELLIAN**
 
 **© 2026 NABELLIAN. All rights reserved.**
-
----
-### ☕️ Support the Poor 14-year-old Developer
-**Development for everyone, for the world!**
-Sponsor a cup of coffee for **NABELLIAN**.
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/nabellian)
